@@ -4,4 +4,6 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 
 This repository is built step by step in the tutorial.
 
-it now includes steps for Github
+It now includes steps for Github
+
+https://www.w3schools.com/git/git_branch_push_to_remote.asp
