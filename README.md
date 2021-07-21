@@ -6,4 +6,4 @@ This repository is built step by step in the tutorial.
 
 it now includes steps for Github
 # MichaelMagdyG.github.io
-# MichaelMagdyG.github.io
+# 7:31 PM 7/21/2021
